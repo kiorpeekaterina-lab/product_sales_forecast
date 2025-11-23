@@ -1,0 +1,21 @@
+sku_id,sku_name,category,brand,weight
+SKU_1,Product 1,Electronics,BrandA,1.59
+SKU_2,Product 2,Home,BrandB,4.75
+SKU_3,Product 3,Beauty,BrandA,0.25
+SKU_4,Product 4,Sport,BrandC,4.78
+SKU_5,Product 5,Sport,BrandA,1.95
+SKU_6,Product 6,Electronics,BrandD,4.21
+SKU_7,Product 7,Electronics,BrandC,3.69
+SKU_8,Product 8,Home,BrandC,4.81
+SKU_9,Product 9,Home,BrandB,0.45
+SKU_10,Product 10,Sport,BrandB,0.95
+SKU_11,Product 11,Electronics,BrandC,2.27
+SKU_12,Product 12,Food,BrandA,3.13
+SKU_13,Product 13,Home,BrandD,2.49
+SKU_14,Product 14,Food,BrandB,1.08
+SKU_15,Product 15,Electronics,BrandC,0.59
+SKU_16,Product 16,Home,BrandC,4.34
+SKU_17,Product 17,Food,BrandB,2.46
+SKU_18,Product 18,Beauty,BrandB,4.75
+SKU_19,Product 19,Home,BrandD,4.74
+SKU_20,Product 20,Beauty,BrandA,1.68
